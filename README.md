@@ -61,11 +61,11 @@ Or:
 ```
 
 # **Input:**
-The code reads a .csv file called qrank.csv located in the data directory. The file should contain two columns: Qnumber and Qrank.
+The code reads a .csv file called qrank.csv located in the main directory. The file should contain two columns: Qnumber and Qrank.
 
 
 # **Output:**
-The code exports the results to a .csv file called output.csv located in the data directory. The file contains three columns: Qnumber, Qrank, and Lable.
+The code exports the results to a .csv file called output.csv located in the main directory. The file contains three columns: Qnumber, Qrank, and Lable.
 
 
 # **Additional Information:**
